@@ -31,10 +31,9 @@ styles:
   title:
     textAlign: center
 seo:
-  metaTitle: Blog - Demo site
+  metaTitle: CUTCRAFT
   metaDescription: >-
-    This is the blog of the demo site where we post about technology, product,
-    and design.
+    In CutCraft we value quality with best affordable price.
   socialImage: /images/img-placeholder.svg
   type: Seo
 type: PostFeedLayout
@@ -53,3 +52,4 @@ postFeed:
   colors: bg-light-fg-dark
   hoverEffect: move-up
 ---
+
