@@ -1,46 +1,43 @@
----
 title: Home
 slug: /
 sections:
   - type: GenericSection
     title:
-      text: Unblock your team boost your time to production
+      text: "Accelerate Your Business Growth with CutCraft"
       color: text-dark
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "Digital Marketing & Web Solutions for Modern Businesses"
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+      CutCraft delivers innovative digital marketing, web development, and AI-powered bot solutions that transform your online presence. Our expertise in branding, SEO, and social media drives measurable growth.
     actions:
-      - label: Get started
-        altText: ''
-        url: /
+      - label: "Get Started"
+        altText: ""
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: secondary
-        elementId: ''
+        elementId: ""
         type: Button
-      - label: See Tutorials
-        altText: ''
-        url: /
+      - label: "Explore Services"
+        altText: ""
+        url: /services
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: ""
         type: Link
     media:
-      url: /images/main-hero.svg
-      altText: Unblock your team boost your time to production preview
-      elementId: ''
+      url: /images/cutcraft-hero.svg
+      altText: "Innovative Digital Solutions by CutCraft"
+      elementId: ""
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: "Award-Winning Agency"
       color: text-primary
       type: Badge
-    elementId: ''
+    elementId: ""
     colors: bg-light-fg-dark
     styles:
       self:
@@ -51,23 +48,22 @@ sections:
           - pl-16
           - pb-16
           - pr-16
+# type: resume
   - type: FeaturedItemsSection
     title:
-      text: Key Benefits
+      text: "Proven Results That Speak"
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: "Our strategies deliver tangible growth."
     items:
       - type: FeaturedItem
-        title: 500k
-        subtitle: Numbers Done
+        title: "500k+"
+        subtitle: "Leads Generated"
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Our targeted campaigns have generated over half a million leads for our clients.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
@@ -84,22 +80,20 @@ sections:
             textAlign: left
         image:
           type: ImageBlock
-          altText: Lightning bolt symbol on red background
-          elementId: ''
+          altText: "Performance Icon"
+          elementId: ""
           url: /images/icon1.svg
           styles:
             self:
               borderRadius: x-large
-      - title: 20x
-        subtitle: The Job Stuff
+      - title: "20x"
+        subtitle: "ROI Multiplier"
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Experience exponential growth with strategies that multiply your returns.
         image:
           url: /images/icon2.svg
-          altText: Featured icon two
-          elementId: ''
+          altText: "ROI Icon"
+          elementId: ""
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -115,16 +109,14 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: 200%
-        subtitle: Faster
+      - title: "200%"
+        subtitle: "Faster Growth"
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          Our solutions accelerate your business growth, delivering results twice as fast.
         image:
           url: /images/icon3.svg
-          altText: Featured icon three
-          elementId: ''
+          altText: "Speed Icon"
+          elementId: ""
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
@@ -139,23 +131,23 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
-        altText: ''
-        url: /
+      - label: "Get Started"
+        altText: ""
+        url: /contact
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
-        elementId: ''
+        elementId: ""
         type: Button
     badge:
-      label: This is a badge
+      label: "Trusted by Industry Leaders"
       color: text-primary
       styles:
         self:
           textAlign: center
       type: Badge
-    elementId: ''
+    elementId: ""
     variant: three-col-grid
     colors: bg-neutral-fg-dark
     styles:
@@ -168,28 +160,20 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-  - subtitle: Award winning enterprises trust us
+# type: resume
+  - subtitle: "Trusted by Leading Brands"
     images:
-      - url: /images/empathy-logo.svg
-        altText: Empathy logo
+      - url: /images/client1-logo.svg
+        altText: "Client 1 Logo"
         type: ImageBlock
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
+      - url: /images/client2-logo.svg
+        altText: "Client 2 Logo"
         type: ImageBlock
-      - url: /images/vise-logo.svg
-        altText: Vise logo
+      - url: /images/client3-logo.svg
+        altText: "Client 3 Logo"
         type: ImageBlock
-      - url: /images/telus-logo.svg
-        altText: Telus logo
-        type: ImageBlock
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
-      - url: /images/sanity-logo.svg
-        altText: Sanity logo
-        type: ImageBlock
-      - url: /images/rangle-logo.svg
-        altText: Rangle logo
+      - url: /images/client4-logo.svg
+        altText: "Client 4 Logo"
         type: ImageBlock
     motion: move-to-left
     colors: bg-light-fg-dark
@@ -199,51 +183,20 @@ sections:
       subtitle:
         textAlign: center
     type: ImageGallerySection
-  - posts:
-      - content/pages/blog/case-study-1.md
-      - content/pages/blog/case-study-2.md
-      - content/pages/blog/case-study-3.md
-    showThumbnail: true
-    showDate: true
-    showAuthor: true
-    variant: three-col-grid
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-16
-          - pl-16
-          - pb-16
-          - pr-16
-        justifyContent: center
-    type: FeaturedPostsSection
-    hoverEffect: move-up
-  - title: Divider
-    colors: bg-light-fg-dark
-    styles:
-      self:
-        padding:
-          - pt-7
-          - pl-7
-          - pb-7
-          - pr-7
-    type: DividerSection
+# type: resume
   - title:
-      text: Grow your business 10x faster
+      text: "Accelerate Your Growth with CutCraft"
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: "Proven Digital Strategies for Rapid Success"
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      CutCraft combines innovative digital marketing and web development strategies to deliver measurable growth. Experience a transformation in your online presence and revenue generation.
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: "Our Strategy in Action"
+      url: /images/cutcraft-strategy.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -262,7 +215,7 @@ sections:
       loop: true
       muted: true
     badge:
-      label: Key Benefits
+      label: "Key Benefits"
       color: text-primary
       styles:
         self:
@@ -275,25 +228,22 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: GenericSection
+# type: resume
   - type: GenericSection
     title:
-      text: Generic section with a video
+      text: "Discover Our Process"
       color: text-dark
       styles:
         self:
           textAlign: left
       type: TitleBlock
-    subtitle: Section with a video subtitle
+    subtitle: "How We Deliver Exceptional Results"
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      At CutCraft, our process is tailored to each client. From initial consultation to strategy implementation, every step is designed to maximize impact and drive growth.
     actions: []
     media:
-      title: Title of the video
-      url: /images/placeholder-video.mp4
+      title: "Behind the Scenes"
+      url: /images/cutcraft-process.mp4
       autoplay: true
       loop: true
       muted: true
@@ -319,69 +269,68 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: left
+# type: resume
   - title:
-      text: Social Media Management
+      text: "Digital Marketing Services"
       color: text-dark
       type: TitleBlock
-    subtitle: Increase your reach
+    subtitle: "Expand your online reach with targeted campaigns"
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      CutCraft offers comprehensive digital marketing services, including SEO, social media management, PPC, and content marketing, to boost your online presence.
     actions:
-      - label: Get started
-        url: /
+      - label: "Get Started"
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: "Learn More"
+        url: /services
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
     media:
-      url: /images/hero2.svg
-      altText: Fun feature preview
+      url: /images/cutcraft-digital.svg
+      altText: "Digital Marketing by CutCraft"
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: "Leading the Digital Revolution"
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     styles:
       self:
         alignItems: center
-    type: GenericSection
+# type: resume
   - title:
-      text: Business Consulting
+      text: "Web Development & Consulting"
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: "Expert guidance for online success"
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Our team provides strategic consulting and cutting-edge web development services to help your business stand out online.
     actions:
-      - label: Get started
-        url: /
+      - label: "Get Started"
+        url: /contact
         icon: arrowRight
         iconPosition: right
         style: secondary
         type: Button
-      - label: See Tutorials
-        url: /
+      - label: "See Our Work"
+        url: /portfolio
         showIcon: true
         icon: arrowRight
         iconPosition: right
         style: primary
         type: Link
     media:
-      url: /images/hero3.svg
-      altText: Dope design preview
+      url: /images/cutcraft-web.svg
+      altText: "Modern Web Design by CutCraft"
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: "Innovative Solutions"
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
@@ -389,7 +338,7 @@ sections:
       self:
         alignItems: center
         flexDirection: row-reverse
-    type: GenericSection
+# type: resume
   - title: Divider
     colors: bg-light-fg-dark
     styles:
@@ -400,22 +349,20 @@ sections:
           - pb-7
           - pr-7
     type: DividerSection
+# type: resume
   - type: CarouselSection
     title: null
-    subtitle: What our customers say about us
+    subtitle: "What Our Clients Say"
     items:
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+          “CutCraft’s innovative strategies transformed our business.”
+        tagline: "Client Testimonial"
+        subtitle: "Alex Johnson, CEO"
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          The targeted campaigns and expert consultation delivered by CutCraft increased our leads by over 300%.
         image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
+          url: /images/client-testimonial1.png
+          altText: "Alex Johnson"
           styles:
             self:
               borderRadius: full
@@ -435,139 +382,20 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to accomplish a particular purpose."
-        tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+          “Their data-driven approach delivered unmatched ROI.”
+        tagline: "Client Testimonial"
+        subtitle: "Sarah Lee, Marketing Director"
         text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+          With CutCraft’s expertise, our ROI skyrocketed and we experienced remarkable growth.
         image:
-          url: /images/person-placeholder-light.png
-          altText: John Doe
+          url: /images/client-testimonial2.png
+          altText: "Sarah Lee"
           styles:
             self:
               borderRadius: full
           type: ImageBlock
         actions: []
         colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design is how it works, how it functions. Good design doesn't just make a product aesthetically pleasing, it makes it a pleasure to use."
-        tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
-        tagline: Testimonial 4
-        subtitle: 'Maria Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple, that's why it is so complicated."
-        tagline: Testimonial 5
-        subtitle: 'Jane Walters, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/person-placeholder-light.png
-          altText: Maria Walters
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
-          “Quote from some important person goes right here. I love using Netlify Create.”
-        tagline: Testimonial 6
-        subtitle: 'Jane Doe, Company'
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
-        image:
-          url: /images/img-placeholder-dark.png
-          altText: Jane Doe
-          styles:
-            self:
-              borderRadius: full
-          type: ImageBlock
-        actions: []
-        colors: bg-dark-fg-light
         styles:
           self:
             padding:
@@ -588,23 +416,24 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
+# type: resume
   - title:
-      text: List of features here
+      text: "Our Key Features"
       color: text-primary
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Featured items section subtitle
+    subtitle: "What Sets Us Apart"
     items:
-      - title: Feature Item One
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: "Innovative Strategies"
+        tagline: "Driving Results"
+        subtitle: "Tailored solutions for every business."
         text: |
-          Follow the tutorial to build your first Netlify Create site.
+          At CutCraft, our strategies are customized to deliver maximum impact.
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          url: /images/feature-strategies.svg
+          altText: "Innovative Strategies"
           styles:
             self:
               borderRadius: x-large
@@ -620,14 +449,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: "Data-Driven Insights"
+        tagline: "Measurable Success"
+        subtitle: "In-depth analytics to boost performance."
         text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+          We leverage data and analytics to ensure every campaign is optimized for success.
         image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: /images/feature-data.svg
+          altText: "Data-Driven Insights"
           styles:
             self:
               borderRadius: x-large
@@ -643,14 +472,14 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Three
-        tagline: This is the tagline
-        subtitle: This is the item subtitle
+      - title: "Comprehensive Support"
+        tagline: "Always With You"
+        subtitle: "Dedicated support at every step."
         text: |
-          Learn from the tutorial and build your first awesome Netlify Create site.
+          Our team provides ongoing support to ensure your digital campaigns run smoothly.
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          url: /images/feature-support.svg
+          altText: "Comprehensive Support"
           styles:
             self:
               borderRadius: x-large
@@ -678,37 +507,34 @@ sections:
         justifyContent: center
       subtitle:
         textAlign: center
-    type: FeaturedItemsSection
+# type: resume
   - title:
-      text: Generic Section With A Form
+      text: "Get in Touch with CutCraft"
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: "We'd love to hear from you"
     text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+      Whether you're looking to boost your digital presence or transform your business through innovative marketing strategies, our team is ready to help. Contact us today!
     media:
       fields:
         - name: name
-          label: Name
+          label: "Name"
           hideLabel: true
-          placeholder: Your name
+          placeholder: "Your name"
           isRequired: true
           width: full
           type: TextFormControl
         - name: email
-          label: Email
+          label: "Email"
           hideLabel: true
-          placeholder: Your email
+          placeholder: "Your email"
           isRequired: true
           width: full
           type: EmailFormControl
         - name: message
-          label: Message
+          label: "Message"
           hideLabel: true
-          placeholder: Your message
+          placeholder: "Your message"
           width: full
           type: TextareaFormControl
       elementId: contact-form
@@ -726,22 +552,16 @@ sections:
       type: FormBlock
       submitButton:
         type: SubmitButtonFormControl
-        label: Submit
+        label: "Submit"
         showIcon: false
         icon: arrowRight
         iconPosition: right
         style: primary
         elementId: null
     badge:
-      label: Contact Us
+      label: "Contact Us"
       color: text-primary
       type: Badge
     colors: bg-light-fg-dark
     type: GenericSection
-seo:
-  metaTitle: Home - Demo site
-  metaDescription: This demo site is built with Netlify Create.
-  socialImage: /images/main-hero.jpg
-  type: Seo
-type: PageLayout
----
+# End of file
