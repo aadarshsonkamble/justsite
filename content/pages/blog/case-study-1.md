@@ -1,15 +1,12 @@
 ---
-title: Case study 1
+title: CutCraft Case Study
 slug: case-study-1
-date: '2022-01-05'
+date: '2025-02-15'
 excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+  How CutCraft helped businesses scale through expert digital marketing strategies.
 featuredImage:
-  url: /images/img-placeholder.svg
-  altText: Case study 1
+  url: /images/cutcraft-case-study.jpg
+  altText: CutCraft Case Study
   styles:
     self:
       borderRadius: large
@@ -26,15 +23,16 @@ bottomSections:
           - pr-7
     type: DividerSection
   - items:
-      - title: About Company
-        tagline: This is the tagline
+      - title: About CutCraft
+        tagline: Transforming businesses through digital marketing
         subtitle: >-
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante
-          lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at
-          auctor sapien.
+          CutCraft is a full-service digital marketing agency specializing in 
+          Branding, Social Media Ads, Google Ads, SEO & SEM, Video Editing, 
+          Content Marketing, and Website Development/Optimization. We drive 
+          results through data-driven strategies.
         image:
-          url: /images/telus-logo.svg
-          altText: Company logo
+          url: /images/cutcraft-logo.svg
+          altText: CutCraft Logo
           styles:
             self:
               margin:
@@ -88,14 +86,28 @@ styles:
 type: PostLayout
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+## The Challenge
 
-> Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
->
-> _By Clara White - VP of Marketing_
+Many businesses struggle with online visibility, lead generation, and audience engagement. CutCraft stepped in to provide strategic solutions tailored to each client’s needs.
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+## Our Strategy
 
-![](/images/img-placeholder.svg)
+- **SEO & SEM:** Optimized websites for search engines, leading to increased organic traffic.  
+- **Paid Ads:** Implemented high-converting social media and Google Ads campaigns.  
+- **Branding & Content:** Created compelling brand identities and content that engaged audiences.  
+- **Website Optimization:** Designed and improved websites for better user experience and conversions.  
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+## Results Achieved
+
+✅ 300% increase in organic traffic for multiple clients  
+✅ 4x return on ad spend (ROAS) for paid campaigns  
+✅ Improved customer engagement and lead conversion  
+
+> _"CutCraft transformed our business with targeted digital marketing. Our leads and sales skyrocketed!"_  
+> — A Satisfied Client  
+
+![](/images/cutcraft-success.jpg)
+
+### Ready to grow your business?  
+📩 Contact us at [hello@cutcraft.com](mailto:hello@cutcraft.com)  
+🌐 Visit our website: [www.cutcraft.com](https://www.cutcraft.com)  
