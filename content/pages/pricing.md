@@ -3,32 +3,31 @@ title: Pricing
 slug: pricing
 sections:
   - title:
-      text: Flexible Pricing
+      text: Flexible Pricing Plans
       color: text-dark
       styles:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is the subtitle for the pricing section
+    subtitle: Choose a plan that fits your business needs
     plans:
-      - title: Developers
+      - title: Starter
         price: Free
         details: No credit card required
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          Perfect for small businesses looking to explore digital marketing strategies.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Free SEO Audit
+          - Basic Social Media Analysis
+          - Free Consultation Call
+          - Marketing Strategy Overview
         image:
-          url: /images/abstract-feature1.svg
-          altText: Pricing plan 1
+          url: /images/plan-starter.svg
+          altText: Starter Plan
           type: ImageBlock
         actions:
-          - label: Try for free
-            url: /
+          - label: Get Started
+            url: /contact
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -43,24 +42,23 @@ sections:
               - pr-6
             borderRadius: large
         type: PricingPlan
-      - title: Professional
-        price: $99
+      - title: Growth
+        price: $499
         details: per month
         description: >-
-          Sed ut perspiciatis unde omnis, iste natus error sit voluptatem
-          accusantium doloremque.
+          Ideal for businesses looking to scale with targeted ads and SEO.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
+          - Google & Social Media Ads Management
+          - SEO & SEM Optimization
+          - Content Marketing Strategy
+          - Monthly Performance Reports
         image:
-          url: /images/abstract-feature2.svg
-          altText: Pricing plan 2
+          url: /images/plan-growth.svg
+          altText: Growth Plan
           type: ImageBlock
         actions:
           - label: Try for free
-            url: /
+            url: /contact
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -77,23 +75,22 @@ sections:
         type: PricingPlan
       - title: Enterprise
         price: Custom
-        details: per month
+        details: Tailored to your business
         description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
+          Fully customized marketing solutions for large-scale businesses and enterprises.
         features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
+          - Full-Service Digital Marketing
+          - Advanced Data Analytics & Tracking
+          - Conversion Rate Optimization
+          - Dedicated Account Manager
+          - Priority Support
         image:
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
+          url: /images/plan-enterprise.svg
+          altText: Enterprise Plan
           type: ImageBlock
         actions:
-          - label: Contact us
-            url: /
+          - label: Contact Us
+            url: /contact
             icon: arrowRight
             iconPosition: right
             style: secondary
@@ -116,9 +113,10 @@ sections:
         textAlign: center
     type: PricingSection
 seo:
-  metaTitle: Pricing - Demo site
-  metaDescription: This is the pricing page built with Netlify Create.
-  socialImage: /images/main-hero.jpg
+  metaTitle: CutCraft Pricing Plans
+  metaDescription: Explore flexible pricing plans for CutCraft's digital marketing services.
+  socialImage: /images/cutcraft-hero.jpg
   type: Seo
 type: PageLayout
 ---
+
